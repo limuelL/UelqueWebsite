@@ -495,7 +495,9 @@
         padding: 0px 25px;
         margin-bottom: 7.5px;
         margin-top: 7.5px;
-
+    }
+    .image__container a {
+        padding: 0px 6px;
     }
     .translation__title h6 {
         font-size: 1.8rem;
@@ -715,8 +717,8 @@
 
 @media screen and (max-width: 480px) {
     .contact__content {
-        max-width: 300px;
-        width: 100%;
+        max-width: 250px;
+        width: 75%;
     }
     .contact__page-title {
         width: 100%;
